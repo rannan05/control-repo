@@ -7,7 +7,7 @@ class profile::windows_baseline {
     provider => 'chocolatey',
   }
 
-  package { 'jre8':
+   package { 'jre8':
     ensure   => installed,
     provider => 'chocolatey',
   }
