@@ -1,4 +1,4 @@
-class profile::hippa {
+class profile::hipaa {
 
 # HIPAA example 1
 
