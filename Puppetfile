@@ -8,6 +8,9 @@ mod "puppetlabs/concat",      '4.1.1'
 mod 'puppetlabs-apache', '2.3.0'
 mod 'puppetlabs-java', '2.2.0'
 mod 'puppetlabs-chocolatey', '3.0.0'
+mod 'puppet-archive', '2.2.0'
+mod 'puppetlabs-powershell', '2.1.2'
+mod 'puppetlabs-registry', '1.1.4'
 
 # Modules from Git
 # Examples: https://github.com/puppetlabs/r10k/blob/master/doc/puppetfile.mkd#examples
