@@ -1,4 +1,4 @@
-class profile::Windows_Baseline {
+class profile::windows_baseline {
 
   include chocolatey
   
