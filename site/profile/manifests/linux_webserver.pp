@@ -4,7 +4,7 @@ class profile::linux_webserver {
   rhsm_register { 'subscription.rhn.example.com':
     username        => 'myusername',
     password        => 'mypassword',
-    pool		        => 'mypoolid',
+    pool           => 'mypoolid',
   }
   
   package { 'httpd24-httpd':
