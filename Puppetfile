@@ -11,6 +11,7 @@ mod 'puppetlabs-chocolatey', '3.0.0'
 mod 'puppet-archive', '2.2.0'
 mod 'puppetlabs-powershell', '2.1.2'
 mod 'puppetlabs-registry', '1.1.4'
+mod 'waveclaw-subscription_manager', '3.3.0'
 
 # Modules from Git
 # Examples: https://github.com/puppetlabs/r10k/blob/master/doc/puppetfile.mkd#examples
@@ -21,3 +22,5 @@ mod 'puppetlabs-registry', '1.1.4'
 #mod 'apache',
 #  :git    => 'https://github.com/puppetlabs/puppetlabs-apache',
 #  :branch => 'docs_experiment'
+
+
