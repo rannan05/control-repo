@@ -16,7 +16,7 @@ mod 'puppetlabs-registry', '1.1.4'
 # Modules from Git
 # Examples: https://github.com/puppetlabs/r10k/blob/master/doc/puppetfile.mkd#examples
 mod 'subscription_manager',
-  :git    => 'https://github.com/jlaska/puppet-subscription_manager.git',
+  :git    => 'https://github.com/jlaska/puppet-subscription_manager.git'
 
 #mod 'apache',
 #  :git    => 'https://github.com/puppetlabs/puppetlabs-apache',
