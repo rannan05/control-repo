@@ -11,13 +11,12 @@ mod 'puppetlabs-chocolatey', '3.0.0'
 mod 'puppet-archive', '2.2.0'
 mod 'puppetlabs-powershell', '2.1.2'
 mod 'puppetlabs-registry', '1.1.4'
-mod 'waveclaw-subscription_manager', '3.3.0'
+
 
 # Modules from Git
 # Examples: https://github.com/puppetlabs/r10k/blob/master/doc/puppetfile.mkd#examples
-#mod 'apache',
-#  :git    => 'https://github.com/puppetlabs/puppetlabs-apache',
-#  :commit => '83401079053dca11d61945bd9beef9ecf7576cbf'
+mod 'subscription_manager',
+  :git    => 'https://github.com/jlaska/puppet-subscription_manager.git',
 
 #mod 'apache',
 #  :git    => 'https://github.com/puppetlabs/puppetlabs-apache',
